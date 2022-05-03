@@ -16,7 +16,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>DemoSimp</name>
-	<description>Come scovare i simp nel gruppo tramite votazione democratica.</description>
+	<description>Host an easy democratic vote on telegram with this bot and see who's the most simp!</description>
 	<url>https://github.com/devExcale/DemoSimp</url>
 	<packaging>jar</packaging>
 
