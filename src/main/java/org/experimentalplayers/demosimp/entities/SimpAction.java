@@ -2,12 +2,13 @@ package org.experimentalplayers.demosimp.entities;
 
 import javax.persistence.*;
 import java.util.Set;
+import java.util.UUID;
 
 @Entity
 public class SimpAction {
 
 	@Id
-	private Long id;
+	private UUID id;
 
 	@Basic
 	private String description;
