@@ -1,6 +1,8 @@
 package org.experimentalplayers.demosimp.entities;
 
-import javax.persistence.*;
+import javax.persistence.Basic;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Entity
 public class GroupChat {
