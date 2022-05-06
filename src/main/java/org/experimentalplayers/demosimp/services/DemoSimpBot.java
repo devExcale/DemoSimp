@@ -1,4 +1,4 @@
-package org.experimentalplayers.demosimp;
+package org.experimentalplayers.demosimp.services;
 
 import com.pengrad.telegrambot.TelegramBot;
 import org.springframework.beans.factory.annotation.Value;
